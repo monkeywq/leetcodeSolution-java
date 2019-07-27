@@ -18,7 +18,7 @@ public class Q162 {
 				right=mid;
 			}
 		}
-		return mid;
+		return left;
 	}
 	public static void main(String args[])
 	{
