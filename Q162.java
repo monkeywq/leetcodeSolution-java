@@ -17,7 +17,6 @@ public class Q162 {
 			{
 				right=mid;
 			}
-			
 		}
 		return left;
 	}
